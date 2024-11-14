@@ -1,5 +1,5 @@
 # sagefrancistour2025.com.github.io
-Github page view: https://artistslp.github.io/sagefrancistour2025.com.github.io
+Github page view: https://artistslp.github.io/sagefrancistour2025.com.github.io<br>CloudFlare page view: https://sagefrancistour2025-com-github-io.pages.dev/<br>CloudFlare page setup: https://dash.cloudflare.com/73ed68d334e86dadb392d542c204707b/pages/view/sagefrancistour2025-com-github-io
 ## block_hero
 title: Sage Francis Tour 2025<br>text1: Imagine The Fun Tour<br>text2: Jan 11, 2025 – Feb 16, 2025
 ## block_text
